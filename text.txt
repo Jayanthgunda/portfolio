@@ -1,0 +1,37 @@
+<!-- <div class="one">
+        <table>
+            <tr>
+                <td><img style="width: 150px;" src="images/me.svg" alt=""></td>
+                <td>About Home Word</td>
+            </tr>
+        </table>
+        <center>
+        <img src="https://web.archive.org/web/20180819202235/http://seanhalpin.io/assets/img/content/home/masthead/im-sean.svg" alt="">
+            <p>a web designer.</p>
+            <img src="https://web.archive.org/web/20180819202235/http://seanhalpin.io/assets/img/content/home/masthead/land.svg" alt="">
+    </center>
+</div>
+<center>
+    <div class="two">
+        <img class="seanimg" src="https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/assets/img/content/home/hello/me.svg" alt="">
+    </div>
+</center> -->
+
+
+
+
+
+
+/* ********************************* */
+/* .one {
+    background-color: #CBF1F5;
+}
+
+td {
+    padding: 0 300px;
+}
+.seanimg {
+    width: 200px;
+    padding-top: 60px;
+} */
+
